@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**valebonato/valebonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🌍 About Me</h3>
 
-Here are some ideas to get you started:
+- 📊 &nbsp; Passionate about finding concrete solutions to environmental challenges through data analysis.  
+- 🎓 &nbsp; Environmental Engineer and Junior Data Analyst, holding a Master's degree in Environmental and Land Engineering from Politecnico di Milano.  
+- 🤖 &nbsp; Currently learning Machine Learning.  
+- 🚀 &nbsp; Open for collaborations and job opportunities.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | R (Statistics) | MATLAB
+- 🎮 &nbsp; Godot 
+- 🛢 &nbsp; SQLite 
+- 🔧 &nbsp; Git | Github
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true)
+
+### 📫🤝🏻 Connect with Me
+
+- Connect with me on [LinkedIn](www.linkedin.com/in/valentina-bonato) 👩🏻‍💻  
+- Shoot me an [Email](mailto:bonatovale@yahoo.it) 💌  
+- [GitHub Profile Summary](https://profile-summary-for-github.com/user/valebonato)  
+
+⭐️ From [Your Name](https://github.com/valebonato)  
+
