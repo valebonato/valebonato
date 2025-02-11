@@ -13,8 +13,6 @@
 - 🛢 &nbsp; SQLite 
 - 🔧 &nbsp; Git | Github
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true)
-
 ### 📫🤝🏻 Connect with Me
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/valentina-bonato) 👩🏻‍💻  
