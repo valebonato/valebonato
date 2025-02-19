@@ -13,7 +13,7 @@
 - 🛢 &nbsp; SQLite 
 - 🔧 &nbsp; Git | Github
 
-### 📫🤝🏻 Connect with Me
+### 📫 Connect with Me
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/valentina-bonato) 👩🏻‍💻  
 - Shoot me an [Email](mailto:bonatovale@yahoo.it) 💌  
