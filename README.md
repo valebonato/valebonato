@@ -19,5 +19,4 @@
 - Shoot me an [Email](mailto:bonatovale@yahoo.it) 💌  
 - [GitHub Profile Summary](https://profile-summary-for-github.com/user/valebonato)  
 
-⭐️ From [Your Name](https://github.com/valebonato)  
 
