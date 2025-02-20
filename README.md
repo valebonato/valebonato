@@ -17,6 +17,4 @@
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/valentina-bonato) 👩🏻‍💻  
 - Shoot me an [Email](mailto:bonatovale@yahoo.it) 💌  
-- [GitHub Profile Summary](https://profile-summary-for-github.com/user/valebonato)  
-
 
