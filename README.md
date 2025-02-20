@@ -15,6 +15,6 @@
 
 ### 📫 Connect with Me
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/valentina-bonato) 👩🏻‍💻  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/valentina-bonato) 👩🏻‍💻  
 - Shoot me an [Email](mailto:bonatovale@yahoo.it) 💌  
 
